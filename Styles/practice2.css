@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+
+
+
 .box1{
     background-color: rgba(219, 219, 213, 0.377);
     padding: 20px;
@@ -45,4 +48,20 @@
 }
 #search{
     width: 35px;
+}
+.button{
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 50px; 
+    font-family: sans-serif;
+    font-weight: 650;
+
+    /* for hover effect */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover{
+    background-color: rgba(219, 219, 213, 0.377);
 }
