@@ -28,6 +28,11 @@
     display: flex;
     
 }
+.icon{
+    font-size: 20px;
+    
+
+}
 #logo{
     width: 100px;
 }
@@ -47,7 +52,8 @@
     font-family: sans-serif;
 }
 #search{
-    width: 35px;
+    color: white;
+    background-color: rgb(251, 14, 200);
 }
 .button{
     padding: 10px;
